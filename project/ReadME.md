@@ -10,13 +10,13 @@ In this project i tried to build a hybrid model including CNN and Fuzzy model to
 Clone the project  
 
 ~~~bash  
-  git clone https://link-to-project
+  git clone https://github.com/SjR2003/Intro-to-Ai.git
 ~~~
 
 Go to the project directory  
 
 ~~~bash  
-  cd my-project
+  cd Intro-to-Ai/project
 ~~~
 
 Install dependencies  
@@ -25,7 +25,7 @@ Install dependencies
 npm install
 ~~~
 
-Start the server  
+Start the app  
 
 ~~~bash  
 npm run start
